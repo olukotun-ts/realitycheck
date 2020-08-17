@@ -62,7 +62,7 @@ jobs:
           date
           sleep $SLEEP
           date
-          echo 'Done sleeping.'
+          echo 'Done napping.'
     environment:
       SLEEP: 1
 
